@@ -2,7 +2,7 @@
 //This is archive
 get_header();
 ?>
-<h1>Employee Archive</h1>
+<h1>Reseacher Archive</h1>
 <?php
 while(have_posts()){
     the_post();
