@@ -7,5 +7,3 @@
 
 ### Example Reseacher Input
 <img src='https://github.com/simplecode01/MyFile/blob/main/image_2021-02-14_093539.png' height='400'>
-
-### Example Reseacher Result Info
