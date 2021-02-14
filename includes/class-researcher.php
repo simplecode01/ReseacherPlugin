@@ -7,7 +7,7 @@ class Researcher{
             $this->version = Researcher_Version;
         }
         else{
-            $this->version = '1.0.0';
+            $this->version = '1.1';
         }
     }
 
