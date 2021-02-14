@@ -2,7 +2,7 @@
 /*
 Plugin Name: Researcher HUMIC
 Plugin URI: https://github.com/simplecode01/ReseacherPlugin
-Description: This plugin use to input Reseacher data, and the result of it. I will ge update soon  : )
+Description: This plugin use to input Reseacher data
 Version: 1.1
 Author: simplecode01
 Author URI: https://simplecode01.wordpress.com
